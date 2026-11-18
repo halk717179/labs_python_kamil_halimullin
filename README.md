@@ -5,4 +5,4 @@
 [LAB 2](https://github.com/halk717179/labs_python_kamil_halimullin/tree/ccf46ca0c63919c91aea4e1cbd87c6039347033b/lab%202)
 
 Лабораторная работа 3  
-[LAB 3]([https://github.com/halk717179/labs_python_kamil_halimullin/tree/ccf46ca0c63919c91aea4e1cbd87c6039347033b/lab%202](https://github.com/halk717179/labs_python_kamil_halimullin/tree/ccf46ca0c63919c91aea4e1cbd87c6039347033b/lab%203))
+[LAB 3](https://github.com/halk717179/labs_python_kamil_halimullin/tree/ccf46ca0c63919c91aea4e1cbd87c6039347033b/lab%203)
