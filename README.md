@@ -7,5 +7,5 @@
 Лабораторная работа 3  
 [LAB 3](https://github.com/halk717179/labs_python_kamil_halimullin/tree/ccf46ca0c63919c91aea4e1cbd87c6039347033b/lab%203)
 
-Лабораторная работа 4
+Лабораторная работа 4  
 [LAB 4](https://github.com/halk717179/labs_python_kamil_halimullin/tree/b7a06062a05204a6ab92be2cc84b9dd47fdfcdbb/LAB%204)
